@@ -1,5 +1,3 @@
-# Prevision-d-appels-Lstm-bilstm
-
 Le fichier priori_data.xlsx c'est les données de départ
 
 appels_journaliers.csv c'est pour le nombre d'appels par jour 
